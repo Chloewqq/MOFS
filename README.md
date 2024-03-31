@@ -1,2 +1,2 @@
 # MOFS
-feature selection
+ multi-objective feature selection for material design
